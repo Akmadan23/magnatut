@@ -1,2 +1,2 @@
 # magnatut
-Simple (agar.io style) written in Java
+Simple game (agar.io style) written in Java
